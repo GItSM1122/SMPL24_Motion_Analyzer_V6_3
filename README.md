@@ -1,0 +1,2 @@
+# SMPL24_Motion_Analyzer_V6_3
+SMPL24・FBX・VMDを解析し、MMDモーションを自動補正・生成するBlenderアドオン
